@@ -9,7 +9,8 @@ __pycache__/
 
 # PyCharm files
 .idea
-
+venv/
+*.pyc
 # Eclipse Project settings
 *.*project
 .settings
